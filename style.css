@@ -1,0 +1,41 @@
+html{
+    background-image: linear-gradient(to right, beige, pink);
+    font-family: 'Lucida Console', 'corrier new', monospace;
+    font-size: 20px;
+}
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: #ff0000;
+    font-size: larger;
+    
+  }
+  
+  li {
+    float: left;
+    margin: 30px;
+    padding: 20px;
+    font-family: l;
+  }
+  img{
+    float: right;
+    position: relative;
+  }
+  .clearfix{
+    overflow: auto;
+  }
+  div{
+    margin: 40px;
+    p{
+        font-style: normal;
+    }
+  }
+  button{
+    border: none;
+    background-color: #ff0000;
+    padding: 20px 90px;
+    text-align: center;
+    color: white;
+  }
